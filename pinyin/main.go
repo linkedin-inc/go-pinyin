@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 )
-import "github.com/mozillazg/go-pinyin"
+import "github.com/linkedin-inc/go-pinyin"
 
 func main() {
 	heteronym := flag.Bool("e", false, "启用多音字模式")

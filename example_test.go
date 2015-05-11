@@ -2,7 +2,8 @@ package pinyin_test
 
 import (
 	"fmt"
-	"github.com/mozillazg/go-pinyin"
+
+	"github.com/linkedin-inc/go-pinyin"
 )
 
 func ExamplePinyin_default() {
