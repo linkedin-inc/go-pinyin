@@ -13460,7 +13460,7 @@ var PinyinDict = map[int]string{
 	0x672E: "shù,shú,zhú",                 // 朮
 	0x672F: "shù,shú,zhú",                 // 术
 	0x6730: "teul",                        // 朰
-	0x6731: "zhū,shú",                     // 朱
+	0x6731: "zhū",                     // 朱
 	0x6732: "rén",                         // 朲
 	0x6733: "bā",                          // 朳
 	0x6734: "pǔ,pò,pō,piáo",               // 朴
