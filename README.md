@@ -6,8 +6,10 @@ go-pinyin
 [![GoDoc](https://godoc.org/github.com/mozillazg/go-pinyin?status.svg)](https://godoc.org/github.com/mozillazg/go-pinyin)
 
 汉语拼音转换工具 Go 版。
+
 fork from: mozillazg/go-pinyin
-mainly changed: support parse "中国人Test" to "zhongguorenTest"
+
+mainly changed: 含非中文字符的解析："中国人Test" 到 "zhongguorenTest"
 
 
 Installation
