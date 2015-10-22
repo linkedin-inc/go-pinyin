@@ -6,19 +6,21 @@ go-pinyin
 [![GoDoc](https://godoc.org/github.com/mozillazg/go-pinyin?status.svg)](https://godoc.org/github.com/mozillazg/go-pinyin)
 
 汉语拼音转换工具 Go 版。
+fork from: mozillazg/go-pinyin
+mainly changed: support parse "中国人Test" to "zhongguorenTest"
 
 
 Installation
 ------------
 
 ```
-go get -u github.com/mozillazg/go-pinyin
+go get -u github.com/linkedin-inc/go-pinyin
 ```
 
 install CLI tool:
 
 ```
-go get -u github.com/mozillazg/go-pinyin/pinyin
+go get -u github.com/linkedin-inc/go-pinyin/pinyin
 $ pinyin 中国人
 zhōng guó rén
 ```
