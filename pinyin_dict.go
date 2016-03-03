@@ -11234,7 +11234,7 @@ var PinyinDict = map[int]string{
 	0x5E7C: "yòu",                         // 幼
 	0x5E7D: "yōu",                         // 幽
 	0x5E7E: "jī,jǐ",                       // 幾
-	0x5E7F: "guǎng,ān",                    // 广
+	0x5E7F: "guǎng",                    // 广 ,ān
 	0x5E80: "pǐ",                          // 庀
 	0x5E81: "tīng",                        // 庁
 	0x5E82: "zè",                          // 庂
